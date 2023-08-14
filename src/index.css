@@ -1,0 +1,64 @@
+
+.row{
+  margin-top: 2%;
+}
+.img-fluid{
+  border: solid black 2px;
+  align-content: center;
+  height: fit-content;
+  width: fit-content;
+  margin-top: 3%;
+  margin-left: 0px;
+}
+.users{
+  border: solid black 2px;
+  background-color: rgb(148, 192, 247);
+  margin-top: 0px;
+}
+.roundedfloat-start{
+
+  border: solid black 1px;
+  border-radius: 100%;
+  display:inline-block;
+  height: 300px;
+  width: 300px;
+  margin-left: 40px;
+}
+.roundedfloat-end{
+  border: solid black 1px;
+  border-radius: 100%;
+  display:inline-block;
+  height: 300px;
+  width: 300px;
+  margin-left: 50px;
+}
+.roundedfloat-middle{
+  border: solid black 1px;
+  border-radius: 100%;
+  display:inline-block;
+  height: 300px;
+  width: 300px;
+  margin-left: 50px;
+}
+.buttoncantainer{
+  background-color: rgb(220, 193, 245);
+  border: solid black 2px;
+}
+.btnbtn-secondarybtn-lg-1{
+  height: 50px;
+  width:150px;
+  margin-top: 10px;
+  margin-left: 110px;
+}
+.btnbtn-secondarybtn-lg-2{
+  height: 50px;
+  width:150px;
+  margin-top: 10px;
+  margin-left: 210px;
+}
+.btnbtn-secondarybtn-lg-3{
+  height: 50px;
+  width:150px;
+  margin-top: 10px;
+  margin-left: 210px;
+}
